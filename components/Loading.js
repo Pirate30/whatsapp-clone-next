@@ -1,5 +1,5 @@
 import React from "react";
-import { Circle } from "better-react-spinkit";
+// import { Circle } from "better-react-spinkit";
 
 function Loading() {
   return (
@@ -11,7 +11,7 @@ function Loading() {
           height={200}
           style={{ marginBottom: 10 }}
         />
-        <Circle size={60} color="#4ACB5A" />
+        {/* <Circle size={60} color="#4ACB5A" /> */}
       </div>
     </center>
   );
